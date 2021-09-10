@@ -4,9 +4,11 @@ Paper: [IMC'21] From Cloud to Edge: A First Look at Public Edge Platforms.
 
 ## Dataset description
 
-This dataset contains the workloads traces (CPU, bandwidth) at virtual machine (VM) granularity from a large-scale edge cloud platform in China.
+This dataset contains the workloads traces (CPU, memory, storage, bandwidth) at virtual machine (VM) granularity from a large-scale edge cloud platform in China.
 
 ## Data format
+
+## Data sample
 
 ## Statement
 
